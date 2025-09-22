@@ -19,4 +19,5 @@ Ban đầu ta có một danh sách khách hàng gồm:
 
 
  Ta có kết quả như sau:
-<img width="494" height="402" alt="image" src="https://github.com/user-attachments/assets/fb0c87cd-a59d-42fa-ab85-50f3597a40f2" />
+<img width="402" height="302" alt="image" src="https://github.com/user-attachments/assets/76a5e815-ec4f-4d11-af6f-6a7bd26218e0" />
+
